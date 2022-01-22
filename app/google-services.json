@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "650202701529",
+    "project_id": "ihavetofly-29e06",
+    "storage_bucket": "ihavetofly-29e06.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650202701529:android:24dfc9e8861b6e6cb968c8",
+        "android_client_info": {
+          "package_name": "com.heyletscode.ihavetofly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "650202701529-9b37ul3rnv7c9ko926ac6g3vinjkm2t1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANwVceJ3od_GSoHElE-najVe9SCnoY5iY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "650202701529-9b37ul3rnv7c9ko926ac6g3vinjkm2t1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
